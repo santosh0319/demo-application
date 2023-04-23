@@ -1,0 +1,19 @@
+E:\Test Project\Test Project\obj\x86\Debug\Test_Project.Properties.Resources.resources
+E:\Test Project\Test Project\obj\x86\Debug\Test Project.csproj.GenerateResource.Cache
+E:\Test Project\Test Project\bin\Debug\Test Project.exe
+E:\Test Project\Test Project\bin\Debug\Test Project.pdb
+E:\Test Project\Test Project\obj\x86\Debug\Test Project.exe
+E:\Test Project\Test Project\obj\x86\Debug\Test Project.pdb
+E:\Test Project\Test Project\obj\x86\Debug\Test_Project.Home_Page.resources
+E:\Test Project\Test Project\obj\x86\Debug\Test_Project.Category_Master.resources
+E:\Test Project\Test Project\obj\x86\Debug\Test_Project.Product_Master.resources
+D:\Test Project\Test Project\obj\x86\Debug\Test Project.exe
+D:\Test Project\Test Project\obj\x86\Debug\Test Project.pdb
+D:\Test Project\Test Project\bin\Debug\Test Project.exe
+D:\Test Project\Test Project\bin\Debug\Test Project.pdb
+D:\Test Project\Test Project\obj\x86\Debug\Test Project.csprojResolveAssemblyReference.cache
+D:\Test Project\Test Project\obj\x86\Debug\Test_Project.Category_Master.resources
+D:\Test Project\Test Project\obj\x86\Debug\Test_Project.Home_Page.resources
+D:\Test Project\Test Project\obj\x86\Debug\Test_Project.Product_Master.resources
+D:\Test Project\Test Project\obj\x86\Debug\Test_Project.Properties.Resources.resources
+D:\Test Project\Test Project\obj\x86\Debug\Test Project.csproj.GenerateResource.Cache
